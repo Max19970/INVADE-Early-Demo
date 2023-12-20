@@ -1,0 +1,232 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI Text Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI Text
+  m_TableCollectionNameGuidString: dd62ef83979c40e48b475a26e897fba1
+  m_Entries:
+  - m_Id: 77957439488
+    m_Key: PlayButtonText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4702546698240
+    m_Key: OptionsButtonText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6157458481152
+    m_Key: ExitButtonText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 168449173102592
+    m_Key: GamePageButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 169637876604928
+    m_Key: AudioPageButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 171110492545024
+    m_Key: MasterVolumeText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 240339694657536
+    m_Key: LanguageLabelText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 241655233912832
+    m_Key: EnglishOptionText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 241717942951936
+    m_Key: RussianOptionText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 252303019876352
+    m_Key: MusicVolumeText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 252523380219904
+    m_Key: SFXVolumeText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 297823599861760
+    m_Key: OtherPageText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 299447714062336
+    m_Key: MoreComingText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 316039302750208
+    m_Key: Slot1Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 316139714387968
+    m_Key: Slot2Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 316183762968576
+    m_Key: Slot3Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 316707283410944
+    m_Key: DeleteButtonText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 345918823997440
+    m_Key: BackButtonText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 351094955843584
+    m_Key: PleaseSelectText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1018114575704064
+    m_Key: TapToBeginText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1410880543662080
+    m_Key: PausedLabelText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1410943881846784
+    m_Key: ResumeButtonText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1411144214388736
+    m_Key: SaveButtonText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1411244374368256
+    m_Key: LoadButtonText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1411307045658624
+    m_Key: QuitButtonText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1422099753213952
+    m_Key: LabSectionText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1422752500162560
+    m_Key: LabDescriptionText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438045045792768
+    m_Key: CurrentLocText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1605108548771840
+    m_Key: EquipmentButtonText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4591177942704128
+    m_Key: EasyDiffNameText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4591375825772544
+    m_Key: NormalDiffNameText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4591449737797632
+    m_Key: HardDiffNameText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4592744414584832
+    m_Key: EasyDescriptionText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4625745315897344
+    m_Key: NormalDescriptionText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4625807148326912
+    m_Key: HardDescriptionText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4625839184420864
+    m_Key: ChooseDifLabelText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4626239270690816
+    m_Key: ConfirmButtonText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7525084103188480
+    m_Key: EnemyViewText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7529409961533440
+    m_Key: InvisibleText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7529548256124928
+    m_Key: VisibleText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7529792494641152
+    m_Key: DetectionIndicatorsText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7530034816360448
+    m_Key: EnemyHealthText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7530200541700096
+    m_Key: DamageNumbersText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8635177045598208
+    m_Key: SelectLangText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8635538640740352
+    m_Key: AbleToChangeText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9003659427848192
+    m_Key: DisclaimerMainText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9003778030182400
+    m_Key: DisclaimerWarnText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9015040935993344
+    m_Key: ContinueText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9015144740823040
+    m_Key: WarningText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9017358154735616
+    m_Key: DontShowAgainText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10657289688064000
+    m_Key: ResetSettingsText
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 6900076634854391860
+  references:
+    version: 2
+    RefIds:
+    - rid: 6900076634854391860
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1673037526290

@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Floor
+  - Wall
+  - Ceiling
+  - Pickup
+  - Interactor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Platform
+  - Water
+  - UI
+  - Floor
+  - Wall
+  - Ceiling
+  - Projectiles
+  - Life
+  - Confiner
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3561880233
+    locked: 0
+  - name: Back Plan
+    uniqueID: 3349238957
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Front Plan
+    uniqueID: 2428072843
+    locked: 0
+  - name: UI
+    uniqueID: 1975682411
+    locked: 0
